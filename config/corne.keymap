@@ -44,7 +44,7 @@
    &kp  TAB  &kp EXCL &kp EXCL &kp AT &kp HASH &kp PRCNT   &kp CARET &kp N1  &kp N2        &kp N3 &kp RPAR  &kp BSPC
    &kp LCTRL &trans   &kp DOLLAR &kp PERCENT   &kp CARET   &trans      &kp MINUS &kp N4  &kp N5        &kp N6 &kp N0     &kp GRAVE
    &kp LSHFT &trans   &kp AMPS &kp ASTERISK   &trans   &trans      &kp UNDER &kp N7  &kp N8        &kp N9 &kp DOT   &kp TILDE
-                    	     &kp LGUI &trans   &kp command   &kp RET   &trans  &kp RALT
+                    	     &kp LGUI &trans   &kp LGUI   &kp RET   &trans  &kp RALT
                         >;
                 };
         };
